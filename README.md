@@ -1,2 +1,2 @@
-# Machine Learning Project 2
+# Machine Learning Projects 2
  
